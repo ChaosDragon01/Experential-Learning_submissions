@@ -1,0 +1,6 @@
+﻿input_text,generic_label,generic_score,finetuned_a_label,finetuned_a_score,finetuned_b_label,finetuned_b_score,winner,notes,tested_at
+ACTION REQUIRED: Your corporate password expires in 2 hours. Update it immediately here to maintain access.,NEGATIVE,0.9919,  phishing,0.9589,  LABEL_0,0.8820,,,
+Invoice OVERDUE: Please process the attached payment remittance for the Q1 software licensing immediately.,NEGATIVE,0.9930,  benign,0.9969,  LABEL_0,0.7098,,,
+Mail Administrator: Your mailbox has exceeded its storage quota. Click here to upgrade your storage.,NEGATIVE,0.9987,  phishing,0.9956,  LABEL_0,0.8919,,,
+Approved: Service desk ticket #4920 regarding your VPN access issue has been resolved and closed.,NEGATIVE,0.9974,  benign,1.0000,  LABEL_0,0.6839,,,
+"Team, just a heads-up that we'll be having a scheduled fire drill tomorrow morning at 10 AM.",NEGATIVE,0.9950,  benign,1.0000,  LABEL_0,0.9210,,,
