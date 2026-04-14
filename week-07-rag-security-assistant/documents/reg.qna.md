@@ -1,0 +1,5 @@
+1. "What are common techniques for credential access according to MITRE?"
+2. "How does phishing relate to initial access in the ATT&CK framework?"
+3. "What is lateral movement and what techniques do attackers use?"
+4. "What does the NIST framework recommend for the Detect function?"
+5. "What is the difference between spearphishing attachment and spearphishing link?"
