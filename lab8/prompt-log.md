@@ -24,7 +24,7 @@
 
 ## Entry 3: Standardizing Airtable Schema fields
 **Context:** We found field name mismatches between what Component 2 outputted and what the Airtable expected. I needed Copilot to verify snake_case formatting for our JSON outputs.
-**Prompt:**
+**Prompt:** 
 > Using the Airtable schema from copilot-instructions.md, rewrite this Flowise system prompt to ensure the output strictly uses these exact keys in snake_case: attack_type, relevance_score, severity, and indicators. 
 **Result:** Copilot generated a strict JSON schema block to append to the system prompt, enforcing the specific keys and standardizing the output structure.
 **Evaluation:** The result was perfect and prevented Component 3 from failing to read the data. 
